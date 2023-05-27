@@ -28,3 +28,9 @@ To create Guteberg Block, just create the directory inside the build directory. 
 
 ### scripts.js
 - This file contains the JS code.
+
+## Useful Resources
+- The Torquemag https://torquemag.io/2020/01/create-gutenberg-block-with-acf/
+- The ACF function acf_register_block_type https://www.advancedcustomfields.com/resources/acf_register_block_type/
+- The ACF block registration using block.json file https://www.advancedcustomfields.com/resources/acf-blocks-with-block-json/
+- The WordPress block.json file https://developer.wordpress.org/block-editor/reference-guides/block-api/block-metadata/
