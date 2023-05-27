@@ -1,0 +1,14 @@
+.shailesh_gutenberg_block-testimonial-item {
+	border-bottom: 1px solid #999;
+}
+
+.shailesh_gutenberg_block-testimonial-item .testimonial-logo-figure {
+    float: left;
+    margin: 0 1em 1em 0;
+    outline: 2px solid #ebebeb;
+}
+
+.shailesh_gutenberg_block-testimonial-item .testimonial-title {
+    clear: none;
+    margin: 0.5em 0;
+}

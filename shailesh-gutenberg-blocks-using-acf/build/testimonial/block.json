@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "shailesh-gutenberg-blocks/testimonial",
+  "version": "0.1.0",
+  "title": "Testimonial Block using ACF",
+  "category": "widgets",
+  "icon": "smiley",
+  "description": "Testimonial",
+  "supports": {
+    "html": true
+  },
+  "acf": {
+    "mode": "auto",
+    "renderTemplate": "render.php"
+  },
+  "textdomain": "shailesh-gutenberg-blocks",
+  "style": "file:./style-index.css"
+}
