@@ -12,7 +12,7 @@ The plugin file structure is as follows:
       - style-index.css
  - shailesh-gutenberg-blocks-using-acf.php
 
-## To create Gutenber Block
+## To create Gutenberg Block
 To create Guteberg Block, just create the directory inside the build directory. Your directory must contain the block.json and render.php files. You can also include CSS file and JS file in the directory. You should also define the path of the PHP, CSS and JS files in it.
 
 ## File Information
